@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Sheikh Adeel  
 
-<!--
-**sheikhadeel/sheikhadeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer | Laravel & Nuxt Specialist | 7+ Years of Experience**  
 
-Here are some ideas to get you started:
+I’m passionate about building scalable web applications, crafting clean UI/UX, and solving complex backend challenges.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,nuxtjs,vue,laravel,mysql,git,github" />
+</p>
+
+---
+
+### ✨ About Me  
+- 🌍 Based in **Saudi Arabia & Pakistan**  
+- ⚡ 7+ years of experience in **Web Development**  
+- 🛠️ Skilled in **Nuxt.js, JavaScript, jQuery, Bootstrap, CSS, HTML, Laravel, MySQL**  
+- 📦 Delivered multiple enterprise projects (CRM, Booking Systems, E-commerce, Business Websites)  
+- 🤝 Love collaborating with teams & mentoring juniors  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" alt="GitHub streak" />
+</p>
+
+---
+
+### ⚡ Fun Animations  
+
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Laravel+%7C+Nuxt+%7C+MySQL;7%2B+Years+of+Experience;Passionate+about+Clean+Code)
+
+---
+
+### 📬 Connect With Me  
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
