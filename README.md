@@ -26,8 +26,8 @@ I’m passionate about building scalable web applications, crafting clean UI/UX,
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sheikhadeel&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhadeel&theme=radical" alt="GitHub streak" />
 </p>
 
 ---
@@ -40,6 +40,6 @@ I’m passionate about building scalable web applications, crafting clean UI/UX,
 
 ### 📬 Connect With Me  
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sheikhadeel111"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:m.adeel141@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
