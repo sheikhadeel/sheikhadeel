@@ -23,12 +23,6 @@ I’m passionate about building scalable web applications, crafting clean UI/UX,
 
 ---
 
-### 📊 GitHub Stats  
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sheikhadeel&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sheikhadeel/github-readme-stats#gh-dark-mode-only)
-
----
-
 ### ⚡ Fun Animations  
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Laravel+%7C+Nuxt+%7C+MySQL;7%2B+Years+of+Experience;Passionate+about+Clean+Code)
