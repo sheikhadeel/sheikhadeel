@@ -25,7 +25,7 @@ I’m passionate about building scalable web applications, crafting clean UI/UX,
 
 ### 📊 GitHub Stats  
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sheikhadeel)](https://github.com/sheikhadeel/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sheikhadeel&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sheikhadeel/github-readme-stats#gh-dark-mode-only)
 
 ---
 
